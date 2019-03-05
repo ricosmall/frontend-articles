@@ -9,4 +9,4 @@ A wonderful article collection of Front-End.
 
 [宋小菜生鲜 B2B 的前端团队搭建 - Scott](http://www.10tiao.com/html/293/201806/2651228902/1.html)
 
-[The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+[The introduction to Reactive Programming you've been missing - [@andrestaltz](https://twitter.com/andrestaltz)](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
