@@ -4,7 +4,7 @@
 
 上次看了@Scott的一份PPT，对里面一句话很赞同，链路足够长，每个节点都有可能是产品。今日早读文章由宋小菜前端负责人@Scott投稿分享。
 
-> @Scott，宋小菜前端负责人，7 年开发经验，现在主要负责小菜大前端团队搭建/技术架构/工具链建设/影响力打造等，同时是慕课网精英讲师，课程覆盖 45 万+前端新人，2014~2017 全职创业 3 年，作为 Moveha/CR 联合创始人兼 CTO，搭建技术团队研发美国留学生租房产品，2010~2014 在阿里妈妈从事前端开发 4 年，主要负责广告创意模板制作、投放、动画研究与性能优化。
+> @Scott，宋小菜前端负责人，7 年开发经验，现在主要负责小菜大前端团队搭建/技术架构/工具链建设/影响力打造等，同时是慕课网精英讲师，课程覆盖 45 万+前端新人，2014-2017 全职创业 3 年，作为 Moveha/CR 联合创始人兼 CTO，搭建技术团队研发美国留学生租房产品，2010-2014 在阿里妈妈从事前端开发 4 年，主要负责广告创意模板制作、投放、动画研究与性能优化。
 
 正文从这开始～
 
@@ -76,7 +76,7 @@
 
 先上小菜端上部分产品和工具的技术栈图，以帮助大家理解下文：
 
-![](http://www.10tiao.com/img.do?url=https%3A//mmbiz.qpic.cn/mmbiz_png/meG6Vo0MevjqTNqGzRxudTrZ2wPpGic4srG73gjBK0aUBDoTSibStujwN4jKcx4Je9SrloFkDBicljicNxE09UyOIw/640%3Fwx_fmt%3Dpng)
+![](https://mmbiz.qpic.cn/mmbiz_png/meG6Vo0MevjqTNqGzRxudTrZ2wPpGic4srG73gjBK0aUBDoTSibStujwN4jKcx4Je9SrloFkDBicljicNxE09UyOIw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 ## 二、多端带来的挑战
 
@@ -84,7 +84,7 @@
 
 古典互联网时代，我们因为要兼容 IE678 而痛苦不堪，Hack 黑魔法经验基本代表前端水平，如今互联网早已移动化，我们理想中的移动端开发，应该是可以大胆的使用支持的语法特性，只需要做好尺寸兼容就好了，但事实并非如此，不仅在移动端的浏览器不是如此，在移动端开发 RN App 也是如此，这是我们某一款 App 一段时间内，所收集上来的手机厂商分布：
 
-![](http://www.10tiao.com/img.do?url=https%3A//mmbiz.qpic.cn/mmbiz_png/meG6Vo0MevjqTNqGzRxudTrZ2wPpGic4s0wkiawLrtATzZdAgBYTzGJNKiaTKbicUdRu6GDw5rCbn3D6rqHKgtzDrQ/640%3Fwx_fmt%3Dpng)
+![](https://mmbiz.qpic.cn/mmbiz_png/meG6Vo0MevjqTNqGzRxudTrZ2wPpGic4s0wkiawLrtATzZdAgBYTzGJNKiaTKbicUdRu6GDw5rCbn3D6rqHKgtzDrQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 可以发现 Android 的碎片化非常严重，每一个厂商下面有不同时期推出的不同型号的手机，这些手机有着不同版本的操作系统，不同的分辨率和用电策略，不同的后台进程管理方式，不同的用户权限，要让一款 App 在哪怕头部 40% 的手机上兼容，都是一件艰难的事情，这个客观物理现状再加上下面的社区现状，App 质量保证这件事情变得雪上加霜。
 
@@ -399,7 +399,7 @@ App 的版本更新是很重要的，RN 除了传统的 App 更新外还有一�
 
 我们要发布 6 款 App 中的若干款，在一周内的若干天发布，由若干人自行打包测试自行发布，那么这里面就有巨大的协同问题，同时还有一些效率问题，如果一个同学进来改了 3 行接口调用代码，他至少要有这几个阶段，开发阶段本机切新分支调试，测试阶段打一个连接测试环境的包测试有效性，测试完再打一个连接正式环境的本地包测正确性，最后再打一个连接正式环境的用来热更新的包进行发布，那么多人之间都各自来做这个发布，就会出现一些发布冲突的协同问题，如果把发布权限全回收到某一个人，协同貌似能解决，但是会带来效率问题，大家要让这个发布人频繁打包，或者打好的包，反复传给发布人，发布人的时间线就被他人的开发进程给打断了，关于这个我专门做了一张图：
 
-![](http://www.10tiao.com/img.do?url=https%3A//mmbiz.qpic.cn/mmbiz_png/meG6Vo0MevjqTNqGzRxudTrZ2wPpGic4sgcFeDNrp5f0C9Wc1aA3U1YuiavABPVC6NdP7Ze4ia57IyyxVZM3zYkug/640%3Fwx_fmt%3Dpng)
+![](https://mmbiz.qpic.cn/mmbiz_png/meG6Vo0MevjqTNqGzRxudTrZ2wPpGic4sgcFeDNrp5f0C9Wc1aA3U1YuiavABPVC6NdP7Ze4ia57IyyxVZM3zYkug/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 这里面的一个圆点，就代表一个独立的包，比如 A 打出来的不需要 Debug 的连接正式环境的需要热更新的 iOS 的 ipa 包，那么 A 的这个包，跟 B 打出来的不需要 Debug 的连接正式环境的需要热更新的 iOS 的 ipa 包，即便是在同一个仓库的同一个分支，也不能保证 100% 的是一样的包，原因在于，这些本地打的包，还会受到 Node/NPM 版本（语义化），XCode 版本，原生热更新版本控制等等因素影响，导致这个包自身很容易出问题，甚至是一些人肉引发的分支和人工上传等等的影响，也会导致这个包发布出问题，举一个我们真实发生过的故障，A 打完包，把包文件钉钉传给 B，B 在发布的时候，选择本地文件时候选错了一个老版本直接发布上线，导致线上部分用户直接版本回退，我们后来不得已采用紧急回滚，才把影响范围控制住。
 
@@ -433,13 +433,13 @@ App 的版本更新是很重要的，RN 除了传统的 App 更新外还有一�
 
 当然业界也有各种各样规避这些问题的策略，可能是文档建设，可能是流程约束，小菜早期，哪怕到现在，也是在使用这种方式合作的，直到现在我们有了大舅子，前后端合作的方式开始进化，大舅子系统架构图如下：
 
-![](http://www.10tiao.com/img.do?url=https%3A//mmbiz.qpic.cn/mmbiz_png/meG6Vo0MevjqTNqGzRxudTrZ2wPpGic4sK0YY563icUjo4lMk2NAta7BWvcWKQ4Jf7BTezbibpuJgloicJ9lnSlibfQ/640%3Fwx_fmt%3Dpng)
+![](https://mmbiz.qpic.cn/mmbiz_png/meG6Vo0MevjqTNqGzRxudTrZ2wPpGic4sK0YY563icUjo4lMk2NAta7BWvcWKQ4Jf7BTezbibpuJgloicJ9lnSlibfQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 大舅子目前的架构是放到网关下面，网关层做一些鉴权和安全的处理，向下把一个 GraphQL 的请求转发给大舅子，大舅子上面根据这个 Query Type 对应的 Resolver 去调用下层的服务接口，下层可能是另外一个 GraphQL 服务，也可能是微服务，也可能是数据库，兼容度很高，无论是哪一种，大舅子的角色扮演就是配置和聚合：配置客户端上页面对应的数据类型，嵌套关系和数据结构，向下连接和聚合不同的数据源。
 
 内部的开发正式环境关系图如下：
 
-![](http://www.10tiao.com/img.do?url=https%3A//mmbiz.qpic.cn/mmbiz_png/meG6Vo0MevjqTNqGzRxudTrZ2wPpGic4slju3OYJvsEpib1JQv89tEjyMgUK8ao4h3MoMpTEDPfCCAiaj6gwk73wQ/640%3Fwx_fmt%3Dpng)
+![](https://mmbiz.qpic.cn/mmbiz_png/meG6Vo0MevjqTNqGzRxudTrZ2wPpGic4slju3OYJvsEpib1JQv89tEjyMgUK8ao4h3MoMpTEDPfCCAiaj6gwk73wQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 这个事情并不新鲜，多年前，Nodejs 就在扮演数据聚合层的角色，把多个 API 聚合成一个 API，或者打散一些 API，聚合成新的 API，但本质上依然是向客户端提供 API，这种 API 依然是面向页面，可以看做是页面驱动的 API，大舅子因为整个建模基础是 GraphQL，所以页面和数据结合的权利，交给了客户端自己去做，它需要什么数据，就在客户端声明什么数据结构，带来的好处很多，这里列举两条我认为有价值的：
 
@@ -461,11 +461,11 @@ App 的版本更新是很重要的，RN 除了传统的 App 更新外还有一�
 
 技术成长就是工程师的能力变化，我在 4 月份给大家做了一个 10 个月前后的能力评估，这 10 个月，是小菜前端 3 年来基建密度和团队内调整最大的几个月，也是团队整体战斗力提升最大的几个月，本文的所有分析、策略和实际的解决办法，也都是在这几个月里面进行实施的，挑了几个同学，挑了几个主要的能力维度，我们感受下他们的技术成长，白色的 * 代表 10 个月之前的能力值，2 颗星代表可以熟练的开发，三颗星代表基本精通或擅长，四颗星是比较精通。
 
-![](http://www.10tiao.com/img.do?url=https%3A//mmbiz.qpic.cn/mmbiz_png/meG6Vo0MevjqTNqGzRxudTrZ2wPpGic4sT2OE4WFFjicibRuJRWtKye1rgdPIicsBwkf9ckLy7Bjp9ksCgYDeibR4yw/640%3Fwx_fmt%3Dpng)
+![](https://mmbiz.qpic.cn/mmbiz_png/meG6Vo0MevjqTNqGzRxudTrZ2wPpGic4sT2OE4WFFjicibRuJRWtKye1rgdPIicsBwkf9ckLy7Bjp9ksCgYDeibR4yw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 可以看到每个人都有不同程度不同层面的成长，有的全面开花，有的某些领域内快速积累，也要同学技术成长不多，但是协作能力工程能力有很大提升，其实还少了一个维度，就是参与业务拿到的结果或者说业务能力，图上放不下了，稍后会做分析和补充，我们再来看下这些同学做的事情：
 
-![](http://www.10tiao.com/img.do?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/meG6Vo0MevjqTNqGzRxudTrZ2wPpGic4sS3kDBD9xCRba1G9HOgWnQxjcHsqhaDWjb3HN33ZdC0bz4wuAZJOibQg/640%3Fwx_fmt%3Djpeg)
+![](https://mmbiz.qpic.cn/mmbiz_jpg/meG6Vo0MevjqTNqGzRxudTrZ2wPpGic4sS3kDBD9xCRba1G9HOgWnQxjcHsqhaDWjb3HN33ZdC0bz4wuAZJOibQg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 如果仔细比照一下，我们很容易得出三个结论：
 
@@ -500,6 +500,6 @@ App 的版本更新是很重要的，RN 除了传统的 App 更新外还有一�
 站在今天看明天，虽然有很多东西对我们来说依然是未知的，但我们不再像过去一样临场发怯，手忙脚乱，取而代之的是无论多大多难的业务类型，我们都可以坐下来利用这帮人的智慧汇聚出一个最优选择，胸有成竹的去做技术探索和工程尝试，在跟公司一起成长变大的过程中，小菜前端也一定会沉淀出来更有实践价值，更有效率的技术方案，而这些就是我们将来可推广复用的宝贵技术资产。
 
 作者：Scott  
-链接：http://www.10tiao.com/html/293/201806/2651228902/1.html  
-来源：IO条  
+链接：https://mp.weixin.qq.com/s/kl107B5j6VDIkNr_IdHu-Q  
+来源：前端早读课  
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
