@@ -10,3 +10,5 @@ A wonderful article collection of Front-End.
 [宋小菜生鲜 B2B 的前端团队搭建 - Scott](https://mp.weixin.qq.com/s/kl107B5j6VDIkNr_IdHu-Q)
 
 [The introduction to Reactive Programming you've been missing - andrestaltz](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+
+[Avoiding those dang cannot read property of undefined errors - Adam Giese](https://css-tricks.com/%E2%80%8B%E2%80%8Bavoiding-those-dang-cannot-read-property-of-undefined-errors/)
