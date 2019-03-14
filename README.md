@@ -14,3 +14,5 @@ A wonderful article collection of Front-End.
 [Avoiding those dang cannot read property of undefined errors - Adam Giese](https://css-tricks.com/%E2%80%8B%E2%80%8Bavoiding-those-dang-cannot-read-property-of-undefined-errors/)
 
 [2019 前端性能优化年度总结 - Hopsken](https://juejin.im/post/5c4418006fb9a049c043545e)
+
+[Hash maps without side effects - bhaskarmelkani](http://www.jstips.co/en/javascript/hash-maps-without-side-effects/)
