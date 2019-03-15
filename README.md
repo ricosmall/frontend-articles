@@ -16,3 +16,5 @@ A wonderful article collection of Front-End.
 [2019 前端性能优化年度总结 - Hopsken](https://juejin.im/post/5c4418006fb9a049c043545e)
 
 [Hash maps without side effects - bhaskarmelkani](http://www.jstips.co/en/javascript/hash-maps-without-side-effects/)
+
+[微前端的那些事儿 - phodal](https://github.com/phodal/microfrontends)
