@@ -18,3 +18,5 @@ A wonderful article collection of Front-End.
 [Hash maps without side effects - bhaskarmelkani](http://www.jstips.co/en/javascript/hash-maps-without-side-effects/)
 
 [微前端的那些事儿 - phodal](https://github.com/phodal/microfrontends)
+
+[Tasks, microtasks, queues and schedules(译) - FTAndy](http://ftandy.com/2015/08/23/2015-08-23-tasks-microtasks-queues-and-schedules/)
