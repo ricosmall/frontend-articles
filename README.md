@@ -20,3 +20,7 @@ A wonderful article collection of Front-End.
 [微前端的那些事儿 - phodal](https://github.com/phodal/microfrontends)
 
 [Tasks, microtasks, queues and schedules(译) - FTAndy](http://ftandy.com/2015/08/23/2015-08-23-tasks-microtasks-queues-and-schedules/)
+
+[小程序多端框架全面测评 - 凹凸实验室](https://juejin.im/post/5c90eb366fb9a070d4199cc9)
+
+[前端构建秘籍 - 腾讯IMWeb团队](https://juejin.im/post/5c9075305188252d5c743520)
