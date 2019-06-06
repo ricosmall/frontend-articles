@@ -31,6 +31,8 @@ A wonderful article collection of Front-End.
 
 [如何在工作中快速成长？致工程师的10个简单技巧](https://mp.weixin.qq.com/s/wqb_Vwv-r6Aj-LEm_EWJXQ)
 
+[一个合格的中级前端工程师必须要掌握的 28 个 JavaScript 技巧 - yeyan1996](https://juejin.im/post/5cef46226fb9a07eaf2b7516)
+
 
 ## Weekly Content
 
