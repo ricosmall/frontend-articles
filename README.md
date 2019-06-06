@@ -29,7 +29,7 @@ A wonderful article collection of Front-End.
 
 [为什么 Node 是小菜前端团队的核心技术栈 - Scott](https://juejin.im/post/5ca321f76fb9a05e5d09bb8a)
 
-[如何在工作中快速成长？致工程师的10个简单技巧](https://mp.weixin.qq.com/s/wqb_Vwv-r6Aj-LEm_EWJXQ)
+[如何在工作中快速成长？致工程师的10个简单技巧 - 聪安](https://mp.weixin.qq.com/s/wqb_Vwv-r6Aj-LEm_EWJXQ)
 
 [一个合格的中级前端工程师必须要掌握的 28 个 JavaScript 技巧 - yeyan1996](https://juejin.im/post/5cef46226fb9a07eaf2b7516)
 
