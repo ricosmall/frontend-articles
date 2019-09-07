@@ -35,6 +35,8 @@ A wonderful article collection of Front-End.
 
 [深入理解Node.js中的进程与线程 - 大西轰已在服务区](https://juejin.im/post/5d43017be51d4561f40adcf9)
 
+[if 我是前端团队 Leader，怎么制定前端协作规范? - _sx_](https://juejin.im/post/5d3a7134f265da1b5d57f1ed)
+
 
 ## Weekly Content
 
