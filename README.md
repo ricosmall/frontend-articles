@@ -44,4 +44,4 @@ A wonderful article collection of Front-End.
 
 ## High-quality Blog
 
-- [freshman.](https://freshman.tech/)：Many simple and clear tutorials.
+[freshman.](https://freshman.tech/)：Many simple and clear tutorials.
