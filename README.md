@@ -41,3 +41,7 @@ A wonderful article collection of Front-End.
 ## Weekly Content
 
 [阿里云中台前端/全栈团队专栏](https://zhuanlan.zhihu.com/aliyun)
+
+## High-quality Blog
+
+- [freshman.](https://freshman.tech/)：Many simple and clear tutorials.
