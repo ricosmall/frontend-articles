@@ -37,6 +37,8 @@ A wonderful article collection of Front-End.
 
 [if 我是前端团队 Leader，怎么制定前端协作规范? - _sx_](https://juejin.im/post/5d3a7134f265da1b5d57f1ed)
 
+[Vue.js Performance series - Filip Rakowski](https://vueschool.io/articles/vuejs-tutorials/lazy-loading-and-code-splitting-in-vue-js/)
+
 
 ## Weekly Content
 
