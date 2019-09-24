@@ -39,6 +39,7 @@ A wonderful article collection of Front-End.
 
 [Vue.js Performance series - Filip Rakowski](https://vueschool.io/articles/vuejs-tutorials/lazy-loading-and-code-splitting-in-vue-js/)
 
+[Renderless Components in Vue.js - Adam Wathan](https://adamwathan.me/renderless-components-in-vuejs/)
 
 ## Weekly Content
 
