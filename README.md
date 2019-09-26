@@ -41,6 +41,8 @@ A wonderful article collection of Front-End.
 
 [Renderless Components in Vue.js - Adam Wathan](https://adamwathan.me/renderless-components-in-vuejs/)
 
+[2020 年你应该知道的 8 种前端 JavaScript 趋势和工具 - Jonathan Saring](https://www.infoq.cn/article/VdJX0JkmSm_dkJBgF23r)
+
 ## Weekly Content
 
 [阿里云中台前端/全栈团队专栏](https://zhuanlan.zhihu.com/aliyun)
