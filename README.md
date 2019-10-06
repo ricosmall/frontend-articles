@@ -43,7 +43,9 @@ A wonderful article collection of Front-End.
 
 [2020 年你应该知道的 8 种前端 JavaScript 趋势和工具 - Jonathan Saring](https://www.infoq.cn/article/VdJX0JkmSm_dkJBgF23r)
 
-[useEffect 完整指南](https://overreacted.io/zh-hans/a-complete-guide-to-useeffect/)
+[useEffect 完整指南 - Dan Abramov](https://overreacted.io/zh-hans/a-complete-guide-to-useeffect/)
+
+[How to fetch data with React Hooks? - ROBIN WIERUCH](https://www.robinwieruch.de/react-hooks-fetch-data)
 
 ## Weekly Content
 
