@@ -43,6 +43,8 @@ A wonderful article collection of Front-End.
 
 [2020 年你应该知道的 8 种前端 JavaScript 趋势和工具 - Jonathan Saring](https://www.infoq.cn/article/VdJX0JkmSm_dkJBgF23r)
 
+[useEffect 完整指南](https://overreacted.io/zh-hans/a-complete-guide-to-useeffect/)
+
 ## Weekly Content
 
 [阿里云中台前端/全栈团队专栏](https://zhuanlan.zhihu.com/aliyun)
@@ -50,3 +52,4 @@ A wonderful article collection of Front-End.
 ## High-quality Blog
 
 [freshman.](https://freshman.tech/)：Many simple and clear tutorials.
+[Overreacted](https://overreacted.io/)：High quality knowledge about React.
