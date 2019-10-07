@@ -47,6 +47,8 @@ A wonderful article collection of Front-End.
 
 [How to fetch data with React Hooks? - ROBIN WIERUCH](https://www.robinwieruch.de/react-hooks-fetch-data)
 
+[useMemo与useCallback使用指南 - Richard](https://zhuanlan.zhihu.com/p/66166173)
+
 ## Weekly Content
 
 [阿里云中台前端/全栈团队专栏](https://zhuanlan.zhihu.com/aliyun)
