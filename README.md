@@ -49,6 +49,8 @@ A wonderful article collection of Front-End.
 
 [useMemo与useCallback使用指南 - Richard](https://zhuanlan.zhihu.com/p/66166173)
 
+[1.5万字概括ES6全部特性 - JowayYoung](https://juejin.im/post/5d9bf530518825427b27639d)
+
 ## Weekly Content
 
 [阿里云中台前端/全栈团队专栏](https://zhuanlan.zhihu.com/aliyun)
