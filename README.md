@@ -51,6 +51,8 @@ A wonderful article collection of Front-End.
 
 [1.5万字概括ES6全部特性 - JowayYoung](https://juejin.im/post/5d9bf530518825427b27639d)
 
+[前端开发-领域驱动设计 - 蚂蚁金服数据体验技术](https://juejin.im/post/5b1c71ad6fb9a01e5918398d)
+
 ## Weekly Content
 
 [阿里云中台前端/全栈团队专栏](https://zhuanlan.zhihu.com/aliyun)
