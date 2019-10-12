@@ -53,6 +53,8 @@ A wonderful article collection of Front-End.
 
 [前端开发-领域驱动设计 - 蚂蚁金服数据体验技术](https://juejin.im/post/5b1c71ad6fb9a01e5918398d)
 
+[领域驱动设计在前端中的应用 - Vince_](https://juejin.im/post/5d3926176fb9a07ef161c719)
+
 ## Weekly Content
 
 [阿里云中台前端/全栈团队专栏](https://zhuanlan.zhihu.com/aliyun)
