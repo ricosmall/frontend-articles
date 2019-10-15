@@ -57,6 +57,8 @@ A wonderful article collection of Front-End.
 
 [How to Use the useContext Hook in React - James King](https://upmostly.com/tutorials/how-to-use-the-usecontext-hook-in-react)
 
+[如何一人五天开发完复杂小程序 - 奇舞周刊](https://mp.weixin.qq.com/s/ZfTCSv5U-1G2WTbT6j7GLw)
+
 ## Weekly Content
 
 [阿里云中台前端/全栈团队专栏](https://zhuanlan.zhihu.com/aliyun)
