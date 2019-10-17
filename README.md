@@ -59,6 +59,8 @@ A wonderful article collection of Front-End.
 
 [如何一人五天开发完复杂小程序 - 奇舞周刊](https://mp.weixin.qq.com/s/ZfTCSv5U-1G2WTbT6j7GLw)
 
+[写给新手前端的各种文件上传攻略，从小图片到大文件断点续传 - zz_jesse](https://juejin.im/post/5da14778f265da5bb628e590)
+
 ## Weekly Content
 
 [阿里云中台前端/全栈团队专栏](https://zhuanlan.zhihu.com/aliyun)
