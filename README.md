@@ -61,6 +61,8 @@ A wonderful article collection of Front-End.
 
 [写给新手前端的各种文件上传攻略，从小图片到大文件断点续传 - zz_jesse](https://juejin.im/post/5da14778f265da5bb628e590)
 
+[短网址(short URL)系统的原理及其实现 - 小猿大圣](https://hufangyun.com/2017/short-url/)
+
 ## Weekly Content
 
 [阿里云中台前端/全栈团队专栏](https://zhuanlan.zhihu.com/aliyun)
