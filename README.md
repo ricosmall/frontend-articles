@@ -63,6 +63,8 @@ A wonderful article collection of Front-End.
 
 [短网址(short URL)系统的原理及其实现 - 小猿大圣](https://hufangyun.com/2017/short-url/)
 
+[CSS 爆炸级操作 - 猿问](https://zhuanlan.zhihu.com/p/41726464)
+
 ## Weekly Content
 
 [阿里云中台前端/全栈团队专栏](https://zhuanlan.zhihu.com/aliyun)
