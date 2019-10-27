@@ -1,7 +1,7 @@
+[TOC]
+
 # frontend-articles
 A wonderful article collection of Front-End.
-
-[TOC]
 
 ## Table of Content
 
