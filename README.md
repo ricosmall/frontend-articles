@@ -100,6 +100,6 @@
 
 ## 优质个人博客
 
-[freshman.](https://freshman.tech/) - 有很多简单易懂的小教程.
+[freshman.](https://freshman.tech/) - 有很多简单易懂的小教程
 
-[Overreacted](https://overreacted.io/) - 高质量的 React 技术文章.
+[Overreacted](https://overreacted.io/) - 高质量的 React 技术文章
