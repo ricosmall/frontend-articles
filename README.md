@@ -14,6 +14,8 @@
 
 [Renderless Components in Vue.js - Adam Wathan](https://adamwathan.me/renderless-components-in-vuejs/)
 
+[VueJS中学习使用Vuex详解 - 飞跃](https://segmentfault.com/a/1190000015782272)
+
 ## JavaScript
 
 [Avoiding those dang cannot read property of undefined errors - Adam Giese](https://css-tricks.com/%E2%80%8B%E2%80%8Bavoiding-those-dang-cannot-read-property-of-undefined-errors/)
