@@ -104,4 +104,6 @@
 
 [Overreacted](https://overreacted.io/) - 高质量的 React 技术文章
 
-## [贡献优质文章链接](https://github.com/ricosmall/frontend-articles/blob/master/README.md)
+## 贡献方式
+
+[贡献优质文章链接](https://github.com/ricosmall/frontend-articles/blob/master/README.md)
