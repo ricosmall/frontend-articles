@@ -36,6 +36,8 @@
 
 [CSS 爆炸级操作 - 猿问](https://zhuanlan.zhihu.com/p/41726464)
 
+[8 Games to learn CSS the fun way - Andreas Muller](https://dev.to/devmount/8-games-to-learn-css-the-fun-way-4e0f)
+
 ## HTML5
 
 ## Node.js
