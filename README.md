@@ -44,6 +44,8 @@
 
 [深入理解Node.js中的进程与线程 - 大西轰已在服务区](https://juejin.im/post/5d43017be51d4561f40adcf9)
 
+[Run a NodeJS Application on Multiple CPU Cores Using Cluster - Nick Major](https://coderrocketfuel.com/article/run-a-node-js-application-on-multiple-cpu-cores-using-cluster)
+
 ## 小程序
 
 [小程序多端框架全面测评 - 凹凸实验室](https://juejin.im/post/5c90eb366fb9a070d4199cc9)
