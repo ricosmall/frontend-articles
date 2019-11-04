@@ -40,6 +40,8 @@
 
 ## HTML5
 
+[Getting Started with Web Audio API - Boris Smus](https://www.html5rocks.com/en/tutorials/webaudio/intro/)
+
 ## Node.js
 
 [为什么 Node 是小菜前端团队的核心技术栈 - Scott](https://juejin.im/post/5ca321f76fb9a05e5d09bb8a)
