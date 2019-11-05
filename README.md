@@ -97,6 +97,10 @@
 
 [如何在工作中快速成长？致工程师的10个简单技巧 - 聪安](https://mp.weixin.qq.com/s/wqb_Vwv-r6Aj-LEm_EWJXQ)
 
+## 项目实战
+
+[9 Projects you can do to become a Frontend Master in 2020 - Simon Holdorf](https://dev.to/simonholdorf/9-projects-you-can-do-to-become-a-frontend-master-in-2020-n2h)
+
 
 ## 未分类
 
