@@ -121,6 +121,8 @@
 
 [Overreacted](https://overreacted.io/) - 高质量的 React 技术文章
 
+[Pony Foo](https://ponyfoo.com/) - Web 平台、JavaScript、模块化、前端架构、性能等
+
 ## 贡献方式
 
 [贡献优质文章链接](https://github.com/ricosmall/frontend-articles/blob/master/README.md)
