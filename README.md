@@ -32,6 +32,8 @@
 
 [1.5万字概括ES6全部特性 - JowayYoung](https://juejin.im/post/5d9bf530518825427b27639d)
 
+[V8 是怎么跑起来的 —— V8 的 JavaScript 执行管道 - HIGO技术团队](https://juejin.im/post/5dc4d823f265da4d4c202d3b)
+
 ## CSS
 
 [CSS 爆炸级操作 - 猿问](https://zhuanlan.zhihu.com/p/41726464)
