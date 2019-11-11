@@ -92,6 +92,8 @@
 
 [写给新手前端的各种文件上传攻略，从小图片到大文件断点续传 - zz_jesse](https://juejin.im/post/5da14778f265da5bb628e590)
 
+[为你重新系统梳理下， Web 体验优化中和图有关的那些事 - 政采云前端团队](https://juejin.im/post/5dc7fb87e51d454b4213c934)
+
 
 ## 学习方法
 
