@@ -117,6 +117,8 @@
 
 [可能是最全的 “文本溢出截断省略” 方案合集 - 政采云前端团队](https://juejin.im/post/5dc15b35f265da4d432a3d10)
 
+[Merging vs. Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+
 ## 优质前端期刊
 
 [阿里云中台前端/全栈团队专栏](https://zhuanlan.zhihu.com/aliyun)
