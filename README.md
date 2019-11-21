@@ -119,6 +119,8 @@
 
 [Merging vs. Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 
+[Why GraphQL is Taking Over APIs](https://webapplog.com/graphql/)
+
 ## 优质前端期刊
 
 [阿里云中台前端/全栈团队专栏](https://zhuanlan.zhihu.com/aliyun)
