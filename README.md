@@ -121,6 +121,8 @@
 
 [Why GraphQL is Taking Over APIs](https://webapplog.com/graphql/)
 
+[JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+
 ## 优质前端期刊
 
 [阿里云中台前端/全栈团队专栏](https://zhuanlan.zhihu.com/aliyun)
