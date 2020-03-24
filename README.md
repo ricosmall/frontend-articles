@@ -38,6 +38,8 @@
 
 [浏览器系列之 Cookie 和 SameSite 属性 - 冴羽](https://github.com/mqyqingfeng/Blog/issues/157)
 
+[The Ultimate Guide to Hoisting, Scopes, and Closures in JavaScript - Tyler McGinnis](https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript)
+
 ## CSS
 
 [CSS 爆炸级操作 - 猿问](https://zhuanlan.zhihu.com/p/41726464)
