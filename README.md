@@ -143,6 +143,8 @@
 
 [Pony Foo](https://ponyfoo.com/) - Web 平台、JavaScript、模块化、前端架构、性能等
 
+[Bartosz Ciechanowski](https://ciechanow.ski/) - Awesome high quality articles
+
 ## 贡献方式
 
 [贡献优质文章链接](https://github.com/ricosmall/frontend-articles/blob/master/README.md)
