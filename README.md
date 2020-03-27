@@ -129,6 +129,8 @@
 
 [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
+[Gears - Bartosz Ciechanowski](https://ciechanow.ski/gears/)
+
 ## 优质前端期刊
 
 [阿里云中台前端/全栈团队专栏](https://zhuanlan.zhihu.com/aliyun)
