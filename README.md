@@ -102,6 +102,10 @@
 
 [面试官：你了解过移动端适配吗？ - 好好学习吧](https://juejin.im/post/5e6caf55e51d4526ff026a71)
 
+## 前端安全
+
+[CS 253 Web Security](https://web.stanford.edu/class/cs253/)
+
 
 ## 学习方法
 
