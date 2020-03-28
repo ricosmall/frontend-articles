@@ -102,6 +102,8 @@
 
 [面试官：你了解过移动端适配吗？ - 好好学习吧](https://juejin.im/post/5e6caf55e51d4526ff026a71)
 
+[考拉前端骨架屏生成技术揭秘 - 子楼](https://mp.weixin.qq.com/s/4DAlmuMzyNjDKvaoOU1GoA)
+
 ## 前端安全
 
 [CS 253 Web Security](https://web.stanford.edu/class/cs253/)
