@@ -145,6 +145,8 @@
 
 [Bartosz Ciechanowski](https://ciechanow.ski/) - Awesome high quality articles
 
+[Lydia Hallie](https://www.lydiahallie.dev/) - Front-end basic knowledge
+
 ## 贡献方式
 
 [贡献优质文章链接](https://github.com/ricosmall/frontend-articles/blob/master/README.md)
