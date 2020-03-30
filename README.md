@@ -42,6 +42,8 @@
 
 [The Ultimate Guide to Hoisting, Scopes, and Closures in JavaScript - Tyler McGinnis](https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript)
 
+[前端程序员经常忽视的一个JavaScript面试题 - Wscats](https://github.com/Wscats/articles/issues/85)
+
 ## CSS
 
 [CSS 爆炸级操作 - 猿问](https://zhuanlan.zhihu.com/p/41726464)
