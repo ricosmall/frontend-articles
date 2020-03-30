@@ -10,6 +10,8 @@
 
 [打造高可靠与高性能的React同构解决方案 - 北斗同构GitHub](https://github.com/alibaba/beidou/blob/master/packages/beidou-docs/articles/high-performance-isomorphic-app.md)
 
+[React Fiber架构 - 司徒正美](https://zhuanlan.zhihu.com/p/37095662)
+
 ## Vue
 
 [Vue.js Performance series - Filip Rakowski](https://vueschool.io/articles/vuejs-tutorials/lazy-loading-and-code-splitting-in-vue-js/)
