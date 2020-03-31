@@ -145,7 +145,7 @@
 
 [Gears - Bartosz Ciechanowski](https://ciechanow.ski/gears/)
 
-[Web标准：前端的原力](https://mp.weixin.qq.com/s/ZfJquYGCqi2GfAYW8omLFw)
+[Web标准：前端的原力 - 李松峰](https://mp.weixin.qq.com/s/ZfJquYGCqi2GfAYW8omLFw)
 
 ## 优质前端期刊
 
