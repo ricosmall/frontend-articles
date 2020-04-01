@@ -116,6 +116,7 @@
 
 [CS 253 Web Security](https://web.stanford.edu/class/cs253/)
 
+[XSS Filter Evasion Cheat Sheet](https://owasp.org/www-community/xss-filter-evasion-cheatsheet)
 
 ## 学习方法
 
