@@ -112,6 +112,8 @@
 
 [考拉前端骨架屏生成技术揭秘 - 子楼](https://mp.weixin.qq.com/s/4DAlmuMzyNjDKvaoOU1GoA)
 
+[前端新思路：组件即函数和Serverless SSR实践 - 狼叔](https://mp.weixin.qq.com/s/Hj1Py3_CNedxq0ZAy51Qqw)
+
 ## 前端安全
 
 [CS 253 Web Security](https://web.stanford.edu/class/cs253/)
