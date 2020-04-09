@@ -166,6 +166,8 @@
 
 [Lydia Hallie](https://www.lydiahallie.dev/) - Front-end basic knowledge
 
+[Roberto Dip](https://www.monades.dev/) - Aticles about programming
+
 ## 贡献方式
 
 [贡献优质文章链接](https://github.com/ricosmall/frontend-articles/blob/master/README.md)
