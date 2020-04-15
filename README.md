@@ -12,6 +12,8 @@
 
 [React Fiber架构 - 司徒正美](https://zhuanlan.zhihu.com/p/37095662)
 
+[Creating a Gauge in React - Amelia Wattenberger](https://wattenberger.com/blog/gauge)
+
 ## Vue
 
 [Vue.js Performance series - Filip Rakowski](https://vueschool.io/articles/vuejs-tutorials/lazy-loading-and-code-splitting-in-vue-js/)
