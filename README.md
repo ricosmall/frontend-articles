@@ -178,6 +178,8 @@
 
 [Amelia Wattenberger](https://wattenberger.com/) - Tutorials of Visualization (d3.js)
 
+[Strict Mode](https://www.strictmode.io/)
+
 ## 贡献方式
 
 [贡献优质文章链接](https://github.com/ricosmall/frontend-articles/blob/master/README.md)
