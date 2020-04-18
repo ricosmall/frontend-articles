@@ -152,6 +152,8 @@
 
 [Web标准：前端的原力 - 李松峰](https://mp.weixin.qq.com/s/ZfJquYGCqi2GfAYW8omLFw)
 
+[iTerm2 自定义配置和优化教程](https://fuckcloudnative.io/posts/customize-iterm2-1/)
+
 ## 优质前端期刊
 
 [阿里云中台前端/全栈团队专栏](https://zhuanlan.zhihu.com/aliyun)
