@@ -136,6 +136,8 @@
 
 [Shareable Custom Hooks in React - Joe Previte](https://egghead.io/courses/shareable-custom-hooks-in-react)
 
+[Haskell Tutorial](http://dev.stephendiehl.com/hask/)
+
 ## 未分类
 
 [短网址(short URL)系统的原理及其实现 - 小猿大圣](https://hufangyun.com/2017/short-url/)
