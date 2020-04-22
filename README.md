@@ -160,6 +160,8 @@
 
 [iTerm2 自定义配置和优化教程](https://fuckcloudnative.io/posts/customize-iterm2-1/)
 
+[macOS 10.15.4 ssh无法连接解决办法](https://tlanyan.me/macos-10-15-4-ssh-break-solution/)
+
 ## 优质前端期刊
 
 [阿里云中台前端/全栈团队专栏](https://zhuanlan.zhihu.com/aliyun)
