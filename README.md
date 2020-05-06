@@ -50,6 +50,10 @@
 
 [Understanding (all) JavaScript module formats and tools - Dixin](https://weblogs.asp.net/dixin/understanding-all-javascript-module-formats-and-tools)
 
+## TypeScript
+
+[TypeScript入门教程](https://ts.xcatliu.com/)
+
 ## CSS
 
 [CSS 爆炸级操作 - 猿问](https://zhuanlan.zhihu.com/p/41726464)
