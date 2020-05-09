@@ -170,6 +170,8 @@
 
 [从输入URL到页面加载的过程？- 撒网要见鱼](https://dailc.github.io/2018/03/12/whenyouenteraurl.html)
 
+[深入浅出现代Web编程](https://fullstackopen.com/zh)
+
 ## 优质前端期刊
 
 [阿里云中台前端/全栈团队专栏](https://zhuanlan.zhihu.com/aliyun)
