@@ -196,6 +196,8 @@
 
 [Maggie Appleton](https://maggieappleton.com/)
 
+[webkid](https://webkid.io/blog/) - A blog about web development, data visualization and interactive maps.
+
 ## 贡献方式
 
 [贡献优质文章链接](https://github.com/ricosmall/frontend-articles/blob/master/README.md)
