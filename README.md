@@ -172,6 +172,8 @@
 
 [深入浅出现代Web编程](https://fullstackopen.com/zh)
 
+[[译]为新的 Facebook.com 重建我们的技术栈](https://www.yuque.com/docs/share/6aee9dd5-da3f-462b-b4bd-caec0ec6f60e)
+
 ## 优质前端期刊
 
 [阿里云中台前端/全栈团队专栏](https://zhuanlan.zhihu.com/aliyun)
