@@ -204,6 +204,8 @@
 
 [Andy Matuschak](https://notes.andymatuschak.org/) - Load and read all your notes on one page.
 
+[Michael Thiessen](https://michaelnthiessen.com/articles)
+
 ## 贡献方式
 
 [贡献优质文章链接](https://github.com/ricosmall/frontend-articles/blob/master/README.md)
