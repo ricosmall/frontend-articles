@@ -52,6 +52,8 @@
 
 [Understanding (all) JavaScript module formats and tools - Dixin](https://weblogs.asp.net/dixin/understanding-all-javascript-module-formats-and-tools)
 
+[深入解析 EventLoop 和浏览器渲染、帧动画、空闲回调的关系 - 奇舞周刊](https://mp.weixin.qq.com/s/ynLq8MjRLqX6uaYbK17n_Q)
+
 ## TypeScript
 
 [TypeScript入门教程](https://ts.xcatliu.com/)
