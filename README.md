@@ -54,6 +54,8 @@
 
 [深入解析 EventLoop 和浏览器渲染、帧动画、空闲回调的关系 - 奇舞周刊](https://mp.weixin.qq.com/s/ynLq8MjRLqX6uaYbK17n_Q)
 
+[The Unreasonable Effectiveness Of Declarative Programming](https://bollu.github.io/mathemagic/declarative/index.html)
+
 ## TypeScript
 
 [TypeScript入门教程](https://ts.xcatliu.com/)
