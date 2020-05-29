@@ -180,6 +180,8 @@
 
 [[译]为新的 Facebook.com 重建我们的技术栈](https://www.yuque.com/docs/share/6aee9dd5-da3f-462b-b4bd-caec0ec6f60e)
 
+[图解！24张图彻底弄懂九大常见数据结构！](https://mp.weixin.qq.com/s/lnMvB3zgWZTmCfCvnNwTbA)
+
 ## 优质前端期刊
 
 [阿里云中台前端/全栈团队专栏](https://zhuanlan.zhihu.com/aliyun)
