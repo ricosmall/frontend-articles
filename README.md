@@ -92,6 +92,8 @@
 
 [2019 前端性能优化年度总结 - Hopsken](https://juejin.im/post/5c4418006fb9a049c043545e)
 
+[解读新一代 Web 性能体验和质量指标](https://juejin.im/post/5ecc5521e51d45788e17dcc6)
+
 ## 微前端
 
 [微前端的那些事儿 - phodal](https://github.com/phodal/microfrontends)
