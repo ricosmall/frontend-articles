@@ -188,6 +188,8 @@
 
 [阿里云中台前端/全栈团队专栏](https://zhuanlan.zhihu.com/aliyun)
 
+[Increment](https://increment.com/)
+
 ## 优质个人博客
 
 [freshman.](https://freshman.tech/) - 有很多简单易懂的小教程
@@ -213,8 +215,6 @@
 [Andy Matuschak](https://notes.andymatuschak.org/) - Load and read all your notes on one page.
 
 [Michael Thiessen](https://michaelnthiessen.com/articles)
-
-[Increment](https://increment.com/)
 
 [Mouhamed aly](https://mouhamedaly.dev/)
 
