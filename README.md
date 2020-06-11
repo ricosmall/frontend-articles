@@ -14,6 +14,8 @@
 
 [Creating a Gauge in React - Amelia Wattenberger](https://wattenberger.com/blog/gauge)
 
+[Redesigning Redux](https://hackernoon.com/redesigning-redux-b2baee8b8a38)
+
 ## Vue
 
 [Vue.js Performance series - Filip Rakowski](https://vueschool.io/articles/vuejs-tutorials/lazy-loading-and-code-splitting-in-vue-js/)
