@@ -14,7 +14,7 @@
 
 [Creating a Gauge in React - Amelia Wattenberger](https://wattenberger.com/blog/gauge)
 
-[Redesigning Redux](https://hackernoon.com/redesigning-redux-b2baee8b8a38)
+[Redesigning Redux - Shawn McKay](https://hackernoon.com/redesigning-redux-b2baee8b8a38)
 
 ## Vue
 
