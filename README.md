@@ -132,6 +132,8 @@
 
 [前端新思路：组件即函数和Serverless SSR实践 - 狼叔](https://mp.weixin.qq.com/s/Hj1Py3_CNedxq0ZAy51Qqw)
 
+[模块风格编辑器](https://github.com/codex-team/editor.js)
+
 ## 前端安全
 
 [CS 253 Web Security](https://web.stanford.edu/class/cs253/)
