@@ -134,6 +134,8 @@
 
 [模块风格编辑器](https://github.com/codex-team/editor.js)
 
+[View source on the iPad and iPhone](https://ole.michelsen.dk/blog/view-source-on-the-ipad-and-iphone.html)
+
 ## 前端安全
 
 [CS 253 Web Security](https://web.stanford.edu/class/cs253/)
