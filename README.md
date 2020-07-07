@@ -160,6 +160,8 @@
 
 [Technical Writing](https://developers.google.com/tech-writing)
 
+[现代 JavaScript 教程](https://zh.javascript.info/)
+
 ## 未分类
 
 [短网址(short URL)系统的原理及其实现 - 小猿大圣](https://hufangyun.com/2017/short-url/)
