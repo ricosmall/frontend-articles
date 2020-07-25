@@ -200,6 +200,8 @@
 
 [The Pudding](https://pudding.cool/)
 
+[Tiled Lines](https://generativeartistry.com/tutorials/tiled-lines/)
+
 ## 优质前端期刊
 
 [阿里云中台前端/全栈团队专栏](https://zhuanlan.zhihu.com/aliyun)
@@ -241,6 +243,8 @@
 [Zander](https://zander.wtf/)
 
 [Christian](https://elijahmanor.com/)
+
+[generative artistry](https://generativeartistry.com/)
 
 ## 贡献方式
 
