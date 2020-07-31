@@ -58,6 +58,8 @@
 
 [The Unreasonable Effectiveness Of Declarative Programming](https://bollu.github.io/mathemagic/declarative/index.html)
 
+[In the Loop](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
+
 ## TypeScript
 
 [TypeScript入门教程](https://ts.xcatliu.com/)
