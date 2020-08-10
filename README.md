@@ -204,6 +204,8 @@
 
 [Tiled Lines](https://generativeartistry.com/tutorials/tiled-lines/)
 
+[14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+
 ## 优质前端期刊
 
 [阿里云中台前端/全栈团队专栏](https://zhuanlan.zhihu.com/aliyun)
