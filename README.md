@@ -208,6 +208,8 @@
 
 [Git-based Wiki](https://www.bit-101.com/blog/2020/09/git-based-wiki/)
 
+[Docker guide](https://www.robertcooper.me/docker-guide)
+
 ## 优质前端期刊
 
 [阿里云中台前端/全栈团队专栏](https://zhuanlan.zhihu.com/aliyun)
@@ -255,6 +257,8 @@
 [Will Schenk](https://willschenk.com/)
 
 [Matt Perry](https://mattperry.is/)
+
+[Robert Cooper](https://www.robertcooper.me/)
 
 ## 贡献方式
 
