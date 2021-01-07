@@ -262,6 +262,8 @@
 
 [Robert Cooper](https://www.robertcooper.me/)
 
+[paul shen](https://bypaulshen.com/)
+
 ## 贡献方式
 
 [贡献优质文章链接](https://github.com/ricosmall/frontend-articles/blob/master/README.md)
