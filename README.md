@@ -264,6 +264,8 @@
 
 [paul shen](https://bypaulshen.com/)
 
+[Space Jelly](https://spacejelly.dev/)
+
 ## 贡献方式
 
 [贡献优质文章链接](https://github.com/ricosmall/frontend-articles/blob/master/README.md)
